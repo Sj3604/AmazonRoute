@@ -32,7 +32,7 @@ Instead of making one model solve every logistics decision, the system gives eac
 
 ### 🌙 Dark-mode control room
 
-<a href="assets/screenshots/dashboard-dark.png"><img src="assets/screenshots/dashboard-dark.png" width="100%" alt="Actual AmazonRoute RL dark dashboard with delivery grid, warehouses, obstacles, truck, and control panels"></a>
+<a href="screenshots/dashboard-dark.png"><img src="screenshots/dashboard-dark.png" width="100%" alt="Actual AmazonRoute RL dark dashboard with delivery grid, warehouses, obstacles, truck, and control panels"></a>
 
 <sub>Actual screenshot of the running dashboard. Click the image to view full size.</sub>
 
@@ -45,11 +45,11 @@ Instead of making one model solve every logistics decision, the system gives eac
 
 **🚦 Route progress — step-by-step movement and replanning**
 
-<a href="assets/screenshots/live-routing.png"><img src="assets/screenshots/live-routing.png" width="100%" alt="Actual AmazonRoute RL dashboard after simulation steps showing route progress and current target"></a>
+<a href="screenshots/live-routing.png"><img src="screenshots/live-routing.png" width="100%" alt="Actual AmazonRoute RL dashboard after simulation steps showing route progress and current target"></a>
 
 **☀️ Light theme — same interactive simulation**
 
-<a href="assets/screenshots/dashboard-light.png"><img src="assets/screenshots/dashboard-light.png" width="100%" alt="Actual AmazonRoute RL application in light theme"></a>
+<a href="screenshots/dashboard-light.png"><img src="screenshots/dashboard-light.png" width="100%" alt="Actual AmazonRoute RL application in light theme"></a>
 
 </details>
 
